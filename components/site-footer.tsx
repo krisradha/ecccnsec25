@@ -7,7 +7,7 @@ export function SiteFooter() {
         <div>
           <h3 className="font-semibold">Eco Cultural Club • NSEC</h3>
           <p className="text-sm text-muted-foreground mt-2 text-pretty">
-            Reviving culture in a unique way. Radhe Radhe.
+            Reviving culture in a unique way
           </p>
         </div>
         <div>
@@ -52,7 +52,7 @@ export function SiteFooter() {
         </div>
       </div>
       <div className="mx-auto max-w-6xl px-4 py-4 text-xs text-muted-foreground border-t">
-        © {new Date().getFullYear()} Eco Cultural Club of NSEC. All rights reserved.
+        © {new Date().getFullYear()} Eco Cultural Club of NSEC. Made with creativity by Pritam Das
       </div>
     </footer>
   )
