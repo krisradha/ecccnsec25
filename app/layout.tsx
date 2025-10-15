@@ -11,7 +11,6 @@ import { Suspense } from "react"
 export const metadata: Metadata = {
   title: "Eco Cultural Club • NSEC",
   description: "Reviving culture in a unique way at Netaji Subhash Engineering College.",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
